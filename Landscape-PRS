@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T06:34:09.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fLj-672xuP1IKwDM3LLE" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T06:41:36.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VetcMMGSLwS9Ls2xUkhW" version="21.2.6" type="github">
   <diagram name="Page-1" id="3JM2qsgqBZIWuabbRm6g">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,6 +39,33 @@
         </mxCell>
         <mxCell id="urcVIf9-9-HIQuDHgfVh-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="840" y="160" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" width="110" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-128.png" vertex="1" parent="urcVIf9-9-HIQuDHgfVh-17">
+          <mxGeometry width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-19" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="urcVIf9-9-HIQuDHgfVh-17">
+          <mxGeometry x="15" y="87" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="840" y="660" width="110" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-128.png" vertex="1" parent="urcVIf9-9-HIQuDHgfVh-23">
+          <mxGeometry width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="urcVIf9-9-HIQuDHgfVh-25" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="urcVIf9-9-HIQuDHgfVh-23">
+          <mxGeometry x="15" y="87" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
